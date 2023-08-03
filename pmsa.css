@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 3px;
+   
+}
+
+
+
+
+body{
+   
+max-width: 100%;
+height: 100vh;
+background-color: #bbd4ce;
+
+}
+
+
+.para {
+    border-radius: 5px;
+}
+
+img{
+    box-shadow: 10px 5px 26px #679186;
+}
+.img {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.video {
+    display: flex;
+    justify-content: space-evenly;
+}
+.marquee {
+    border-radius: 10px;
+   
+    display: flex;
+   ;
+}
+
+embed{
+    box-shadow: 10px 5px 26px #264e70;
+    border-radius: 5px;
+   
+}
+
+.postal {
+   
+}
